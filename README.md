@@ -32,6 +32,7 @@ node the-flash.js
 📖 Estrutura do Projeto
 
 📂 chatbot-whats
+
 ┣ 📜 index.js             # Código principal do bot
  
 ┣ 📜 the-flash.js         # Código do fluxo de atendimento do bot
