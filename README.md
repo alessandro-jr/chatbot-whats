@@ -32,12 +32,17 @@ node the-flash.js
 📖 Estrutura do Projeto
 
 📂 chatbot-whats
- ┣ 📜 index.js             # Código principal do bot
- ┣ 📜 the-flash.js         # Código do fluxo de atendimento do bot
- ┣ 📜 menus.js             # Definição dos menus interativos
- ┣ 📜 utils.js             # Funções auxiliares para envio de mensagens
- ┣ 📜 package.json         # Configuração do projeto Node.js
- ┣ 📜 .gitignore           # Arquivos ignorados pelo Git
+┣ 📜 index.js             # Código principal do bot
+ 
+┣ 📜 the-flash.js         # Código do fluxo de atendimento do bot
+ 
+┣ 📜 menus.js             # Definição dos menus interativos
+ 
+┣ 📜 utils.js             # Funções auxiliares para envio de mensagens
+ 
+┣ 📜 package.json         # Configuração do projeto Node.js
+ 
+┣ 📜 .gitignore           # Arquivos ignorados pelo Git
 
 📧 Contato
 
