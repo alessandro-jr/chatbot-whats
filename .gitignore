@@ -1,0 +1,33 @@
+# Dependências do Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos do WhatsApp Web.js (evita armazenar autenticação)
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Logs e arquivos de sistema
+*.log
+.DS_Store
+Thumbs.db
+
+# Arquivos de build e binários
+*.dll
+*.so
+*.dylib
+*.o
+*.out
+
+# Arquivos multimídia grandes (caso não precise versionar)
+*.ogg
+*.mp3
+*.mp4
+*.wav
+*.avi
+*.mov
+*.mkv
+
+# PDFs (remova se precisar versioná-los)
+*.pdf
